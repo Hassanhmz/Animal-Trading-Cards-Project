@@ -1,0 +1,46 @@
+/* add your CSS here */
+html {
+
+}
+
+#hawkimage {
+  width: 300px;
+}
+
+#card {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  box-shadow: 5px 5px rgba(119, 101, 101, 0.3)
+
+}
+
+#title {
+  font-weight: bold;
+}
+
+#picture {
+  width: 300px;
+}
+
+#card-info {
+  margin: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 10px;
+  border: 1px solid #cccccc;
+}
+
+#fact {
+  font-style: italic;
+  margin-top: 10px;
+}
+
+#list {
+  list-style: none;
+  padding: 0px;
+}
+
+#header {
+  margin-top: 11px;
+}
